@@ -14,3 +14,30 @@ x3 = -u.
 3. Автоматический выбор величины шага интегрирования для достижения относительной погрешности не более 1% с выводом итоговых результатов для найденного шага.
 
 Для построения графиков был использован QCustomPlot https://www.qcustomplot.com
+
+<h3>Скриншоты работы</h3>
+
+<div>
+  <p>Главное меню</p>
+  <img width="819" alt="Снимок экрана 2024-05-05 в 12 55 12" src="https://github.com/BabySharkHere/SMNDE/assets/82753628/ed33bc9e-3847-4185-8d7c-f393e5f267a3">
+</div>
+<div>
+  <p>Графики с шагом h</p>
+  <img width="1037" alt="Снимок экрана 2024-05-05 в 13 04 17" src="https://github.com/BabySharkHere/SMNDE/assets/82753628/dc22c66a-30b0-41f7-bcb3-22e3a805821e">
+</div>
+<div>
+  <p>Графики с шагом h/2</p>
+  <img width="1035" alt="Снимок экрана 2024-05-05 в 13 05 21" src="https://github.com/BabySharkHere/SMNDE/assets/82753628/b67a42a0-76ed-4f6c-8606-e468ec029fd8">
+</div>
+<div>
+  <p>Дополнительные данные</p>
+  <img width="1033" alt="Снимок экрана 2024-05-05 в 13 06 03" src="https://github.com/BabySharkHere/SMNDE/assets/82753628/1abe4dec-6a06-47d6-91ed-1c46c7dd4f77">
+</div>
+<div>
+  <p>Автоматическое решение</p>
+  <img width="1028" alt="Снимок экрана 2024-05-05 в 13 06 42" src="https://github.com/BabySharkHere/SMNDE/assets/82753628/5dad11c4-4be3-4ea5-b137-a50e44784cb6">
+</div>
+<div>
+  <p>Оценка трудоёмкости</p>
+  <img width="1031" alt="Снимок экрана 2024-05-05 в 13 07 20" src="https://github.com/BabySharkHere/SMNDE/assets/82753628/b890d152-0392-4b93-bea1-874275622ff0">
+</div>
